@@ -1,0 +1,26 @@
+C:\Users\kzisl\Desktop\Online_Check_Server-master\Online_Check_Server\bin\Release\Online_Check_Server.exe.config
+C:\Users\kzisl\Desktop\Online_Check_Server-master\Online_Check_Server\bin\Release\Online_Check_Server.exe
+C:\Users\kzisl\Desktop\Online_Check_Server-master\Online_Check_Server\bin\Release\Online_Check_Server.pdb
+C:\Users\kzisl\Desktop\Online_Check_Server-master\Online_Check_Server\bin\Release\Online_Check_Server.xml
+C:\Users\kzisl\Desktop\Online_Check_Server-master\Online_Check_Server\obj\Release\Online_Check_Server.Form1.resources
+C:\Users\kzisl\Desktop\Online_Check_Server-master\Online_Check_Server\obj\Release\Online_Check_Server.Resources.resources
+C:\Users\kzisl\Desktop\Online_Check_Server-master\Online_Check_Server\obj\Release\Online_Check_Server.Settings.resources
+C:\Users\kzisl\Desktop\Online_Check_Server-master\Online_Check_Server\obj\Release\Online_Check_Server.TransferClient.resources
+C:\Users\kzisl\Desktop\Online_Check_Server-master\Online_Check_Server\obj\Release\Online_Check_Server.vbproj.GenerateResource.Cache
+C:\Users\kzisl\Desktop\Online_Check_Server-master\Online_Check_Server\obj\Release\Online_Check_Server.exe
+C:\Users\kzisl\Desktop\Online_Check_Server-master\Online_Check_Server\obj\Release\Online_Check_Server.xml
+C:\Users\kzisl\Desktop\Online_Check_Server-master\Online_Check_Server\obj\Release\Online_Check_Server.pdb
+F:\Users\legen\Documents\Visual Studio 2017\Projects\CODE\Online_Check_Server-master\Online_Check_Server-master\Online_Check_Server\bin\Release\Online_Check_Server.exe.config
+F:\Users\legen\Documents\Visual Studio 2017\Projects\CODE\Online_Check_Server-master\Online_Check_Server-master\Online_Check_Server\bin\Release\Online_Check_Server.exe
+F:\Users\legen\Documents\Visual Studio 2017\Projects\CODE\Online_Check_Server-master\Online_Check_Server-master\Online_Check_Server\bin\Release\Online_Check_Server.pdb
+F:\Users\legen\Documents\Visual Studio 2017\Projects\CODE\Online_Check_Server-master\Online_Check_Server-master\Online_Check_Server\bin\Release\Online_Check_Server.xml
+F:\Users\legen\Documents\Visual Studio 2017\Projects\CODE\Online_Check_Server-master\Online_Check_Server-master\Online_Check_Server\obj\Release\Online_Check_Server.Form1.resources
+F:\Users\legen\Documents\Visual Studio 2017\Projects\CODE\Online_Check_Server-master\Online_Check_Server-master\Online_Check_Server\obj\Release\Online_Check_Server.Resources.resources
+F:\Users\legen\Documents\Visual Studio 2017\Projects\CODE\Online_Check_Server-master\Online_Check_Server-master\Online_Check_Server\obj\Release\Online_Check_Server.Settings.resources
+F:\Users\legen\Documents\Visual Studio 2017\Projects\CODE\Online_Check_Server-master\Online_Check_Server-master\Online_Check_Server\obj\Release\Online_Check_Server.TransferClient.resources
+F:\Users\legen\Documents\Visual Studio 2017\Projects\CODE\Online_Check_Server-master\Online_Check_Server-master\Online_Check_Server\obj\Release\Online_Check_Server.vbproj.GenerateResource.cache
+F:\Users\legen\Documents\Visual Studio 2017\Projects\CODE\Online_Check_Server-master\Online_Check_Server-master\Online_Check_Server\obj\Release\Online_Check_Server.vbproj.CoreCompileInputs.cache
+F:\Users\legen\Documents\Visual Studio 2017\Projects\CODE\Online_Check_Server-master\Online_Check_Server-master\Online_Check_Server\obj\Release\Online_Check_Server.exe
+F:\Users\legen\Documents\Visual Studio 2017\Projects\CODE\Online_Check_Server-master\Online_Check_Server-master\Online_Check_Server\obj\Release\Online_Check_Server.xml
+F:\Users\legen\Documents\Visual Studio 2017\Projects\CODE\Online_Check_Server-master\Online_Check_Server-master\Online_Check_Server\obj\Release\Online_Check_Server.pdb
+F:\Users\legen\Documents\Visual Studio 2017\Projects\CODE\Online_Check_Server-master\Online_Check_Server-master\Online_Check_Server\obj\Release\Online_Check_Server.vbprojAssemblyReference.cache
